@@ -1,12 +1,12 @@
 # Data challenge: Non-Performing Loans
 
-This Data Challenge was part of the interview process for a position of Senior Data Scientist in an italian bank. The challenge was meant to demonstrate the required technical skills for the position. Thanks to the work performed to solve this Challenge, **I obtain a job offer**.
+This Data Challenge was part of the interview process for a position of Senior Data Scientist in an italian bank. The challenge was meant to demonstrate the required technical skills for the position. Thanks to the work performed to solve this Challenge, **I obtained a job offer**.
 
-This public repository contains all the work done toward the Data Challenge. The exact same documents served to guide the interviewers through the general strategy, the methodology as well as the code during their review.
+This public repository contains all the work done toward the Data Challenge. The same documents served to guide the interviewers through the general strategy, the methodology as well as the code during their review.
 
 The results of this work are summarised in two main documents:
-1. [**The business summary**](Summary_Slides.pdf)
-2. [**The technical summary**](Summary_Report.pdf)
+* [The business summary](Summary_Slides.pdf)
+* [The technical summary](Summary_Report.pdf)
 
 *I prefer to not disclose the name of the company and the original dataset provided.*
 
