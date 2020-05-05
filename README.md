@@ -7,8 +7,8 @@ This public repository contain all the work done toward this Data Challenge and 
 I prefer to not disclose the name of the company and the original dataset provided.
 
 The results of this work is summarised in two main documents:
-1. [Business summary](Summary - Slides.pdf)
-2. [Technical summary](Summary - Report.pdf)
+1. [**Business summary**](Summary_Slides.pdf)
+2. [**Technical summary**](Summary_Report.pdf)
 
 ## Executive summary
 
